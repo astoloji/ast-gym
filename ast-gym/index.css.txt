@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #0f172a; /* Gemini'deki o koyu arka plan */
+  color: white;
+}
